@@ -1,0 +1,30 @@
+# VS Code settings
+.vscode/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Logs
+*.log
+pip-log.txt
+
+# Dados sensíveis
+*.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Banco de dados
+*.sqlite3
+
+# Dados do bot (dinâmicos)
+data/*.json

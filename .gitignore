@@ -26,5 +26,3 @@ Thumbs.db
 # Banco de dados
 *.sqlite3
 
-# Dados do bot (dinâmicos)
-data/*.json

@@ -1,7 +1,7 @@
 # FURIA Fan Club Bot
 
 🔥 Um bot de Telegram feito para os fãs da FURIA!  
-Traz jogos, curiosidades, frases motivacionais, quiz divertido e até um "Coach" alimentado por IA.
+Traz jogos, curiosidades, frases motivacionais e quiz divertido.
 
 ---
 

@@ -25,7 +25,7 @@ quiz = [
 
 user_quiz_data = {}
 
-# Comandos
+# Envia mensagem inicial de boas-vindas
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("🔥 Fala, torcedor da FURIA! Bem-vindo ao Fan Club Bot!\nUse /menu para ver as opções.")
 

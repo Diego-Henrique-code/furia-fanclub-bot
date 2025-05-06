@@ -63,13 +63,13 @@ __pycache__/
 *.py[cod]
 data/*.json
 
-# 📥 Como usar o requirements.txt
-## Depois de clonar o projeto, basta rodar:
+## 📥 Como usar o requirements.txt
+### Depois de clonar o projeto, basta rodar:
 pip install -r requirements.txt
-## Isso irá instalar todas as bibliotecas necessárias exatamente nas versões corretas.
+#### Isso irá instalar todas as bibliotecas necessárias exatamente nas versões corretas.
 
-# Explicação Técnica
-## Este projeto utiliza:
+## Explicação Técnica
+### Este projeto utiliza:
 
 * Modularização: Separação de utilitários (utils.py) e dados (data/).
 
@@ -93,5 +93,5 @@ O vídeo `furia-tech-challenge-diego.mp4` mostra o bot em ação no Telegram (de
 - Quiz completo 
 - Encerramento de conversa
 
-# Autor
-## Diego Henrique— Bot criado para desafio técnico da FURIA 🐾
+## Autor
+### Diego Henrique— Bot criado para desafio técnico da FURIA 🐾
